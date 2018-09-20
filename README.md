@@ -13,9 +13,9 @@ This solution allows your team to generate evaluative ratings and have them pipe
 5. Export images or screencap
 
 # The Sheets
-The tab "Ratings" allows you to create the ratings for each of your criteria. The number of criteria is flexible and the graph will adjust automatically. Names that are put on the first row will show up in the graphs, and the names in the first column will be graph titles. 
+The tab "Ratings" allows you to create the ratings for each of your criteria. The number of criteria is flexible and the graph will adjust automatically. Criteria names that are put on the first row will show up as labels in the graphs, and the names down the first column will be graph titles. 
 
-"Overlays" allows you specify which sets you want overlaid. Use the excel row number from sheet "Ratings" to specify overlays. You can overlay any number of graphs by continuing to add row numbers in the Overlays tab. Each row generates a new graph, each column adds a rating set to that rows set of overlays. 
+The tab "Overlays" allows you specify which sets you want overlaid. Use the excel row number from sheet "Ratings" to specify overlays. You can overlay any number of graphs by continuing to add row numbers in the Overlays tab. Each row generates a new graph, each column adds a rating set to that rows set of overlays. 
 
 # Settings
 * By default, the excel file is named "Polarities.xlsx". If you'd like to change it, there's a variable `filename` in the first code block.
