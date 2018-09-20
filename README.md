@@ -1,6 +1,6 @@
 # Radial Graphing, from Excel to Jupyter
 
-[See the medium article](https://medium.com/p/36c29050f250/edit)
+[See the medium article](https://medium.com/@kenstclair/radial-graphing-for-solution-evaluation-36c29050f250)
 
 
 This solution allows your team to generate evaluative ratings and have them piped into radial graphs in a quick and easy way. 
