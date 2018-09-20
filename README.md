@@ -22,3 +22,4 @@ The tab "Overlays" allows you specify which sets you want overlaid. Use the exce
 * By default, the excel file is in the same folder as the Jupyter Notebook file. You can change this using the variable `sdir` in the first code block. 
 * By default, the sheets are named "Ratings" and "Overlays". The variables in the first code block named `sheet` allow you to control these.
 * The rating ranges default from 0-10. To change these, find the variables `rating_lower_range` and `rating_upper_range` in the first code block. 
+* By default, plotly operates in offline mode. If you'd like to enable uploads, remove the line `init_notebook_mode(connected=True) #use plotly offline`.
