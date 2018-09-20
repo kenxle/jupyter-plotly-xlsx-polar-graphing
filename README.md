@@ -7,7 +7,7 @@ This solution allows your team to generate evaluative ratings and have them pipe
 
 # Installation
 1. Download or clone the repo
-2. Edit Polarities.xlsx
+2. [Edit Polarities.xlsx](https://github.com/kenxle/jupyter-plotly-xlsx-polar-graphing/blob/master/README.md#the-sheets)
 3. Start Jupyter Notebook and open Radial Graphing.ipynb
 4. Run each code block in order
 5. Export images or screencap
