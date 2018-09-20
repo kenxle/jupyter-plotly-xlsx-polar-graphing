@@ -11,3 +11,10 @@ This solution allows your team to generate evaluative ratings and have them pipe
 3. Start Jupyter Notebook and open Radial Graphing.ipynb
 4. Run each code block in order
 5. Export images or screencap
+
+# The Sheets
+"Ratings" allows you to create the ratings for each of your criteria. The number of criteria is flexible and the graph will adjust automatically. 
+
+"Overlays" allows you specify which sets you want overlaid. Use the excel row number to specify overlays. You can overlay any number of graphs by continuing to add row numbers in the Overlays tab. Each row generates a new graph, each column adds a rating set to that rows set of overlays. 
+
+# Settings
