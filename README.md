@@ -12,8 +12,8 @@ This solution allows you to generate evaluative ratings and have them piped into
 4. Run each code block in order
 5. Export images or screencap
 
-# The Sheets
-The tab "Ratings" allows you to create the ratings for each of your criteria. The number of criteria is flexible and the graph will adjust automatically. Criteria names that are put on the first row will show up as labels in the graphs, and the names down the first column will be graph titles. 
+# The Excel Sheets
+The tab "Ratings" allows you to create the ratings for each of your criteria. The number of criteria is flexible and the graph will adjust automatically. Criteria names that are put on the first row will show up as labels in the graphs, and the names down the first column will be graph titles. Notes should always be in the final column, and will be added to individual graphs automatically. Line breaks need to be added in the text with HTML style: "<br />". 
 
 The tab "Overlays" allows you specify which sets you want overlaid. Use the excel row number from sheet "Ratings" to specify overlays. You can overlay any number of graphs by continuing to add row numbers in the Overlays tab. Each row generates a new graph, each column adds a rating set to that row's set of overlays. 
 
