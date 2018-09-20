@@ -3,7 +3,7 @@
 [See the medium article](https://medium.com/@kenstclair/radial-graphing-for-solution-evaluation-36c29050f250)
 
 
-This solution allows you to generate evaluative ratings and have them piped into radial graphs in a quick and easy way. 
+This solution allows you to record evaluative ratings and have them piped into radial graphs in a quick and easy way. 
 
 # Installation
 1. Download or clone the repo
